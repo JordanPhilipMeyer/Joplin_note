@@ -16,3 +16,13 @@ tday=$(date -d "+1 days" "+%d")
 newnote="${tmonth}${tday}${tyear} DN"
 
 echo $newnote
+
+#create a note for the target day
+
+#create a blank space in the new note for my new list of todos
+
+#copy yesterdays note to the bottom
+
+#update sql
+
+#file management clean up
